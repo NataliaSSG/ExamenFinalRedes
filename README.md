@@ -6,7 +6,7 @@ Librerías necesarias de Python:
 Comandos: pip install flask cryptography  
 
 Pasos para correr el programa:
-1. Correr ambos archivos .py, ya sea en diferentes terminales en VSCode simplemente corriendo el código, o ejecutando:
+1. Correr ambos archivos .py, ya sea en diferentes terminales en VSCode simplemente corriendo cada archivo, o ejecutando los siguientes comandos en la terminal:
    - python3 cliente.py  
    - python3 servidor.py
     
